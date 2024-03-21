@@ -1,0 +1,146 @@
+h1,
+h5 {
+  color: rgb(144, 223, 41);
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-image: linear-gradient(to right, #0febeb, #e8175d), linear-gradient(to right, #0febeb, #cc527a);;
+}
+#form {
+  border: 2px black;
+}
+.Container {
+  background-image: url("https://genhq.com/wp-content/uploads/2018/09/GenZBanking2Final.gif");
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container {
+  height: 600px;
+}
+#welcome {
+  margin-top: 5rem;
+}
+.thead {
+  background-color: rgb(41, 223, 199);
+  color: rgb(212, 7, 150);
+}
+td,
+label{
+  color: rgb(230, 4, 4);
+}
+small{
+  color: rgb(204, 191, 8);
+}
+.page-container {
+  background-image: url("https://cdn.dribbble.com/users/2287419/screenshots/15663694/media/74936224354b5bace24995f237dd5d06.gif");
+  height: 600px;
+  width: 800px;
+  /* background-repeat: no-repeat;
+  background-position: center; */
+}
+.page-container1{
+  background-image: url("https://cdn.pixabay.com/animation/2023/05/21/17/56/17-56-18-993_512.gif");
+  height: 600px;
+  width: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+marquee{
+  margin-left: 12%;
+  margin-right: 12%;
+  
+}
+.container6 {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+  
+}
+.text-center{
+  color: #8d1940;
+}
+.Container8{
+  background-image: url("https://miro.medium.com/v2/resize:fit:679/1*Us6oTvrFlw311GkLHx05XA.gif");
+  height: 600px;
+  width: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.custom-image-container{
+  background-image: url("https://cdn.policybazaar.ae/pbuae/images/bank-accounts-left-banner.png");
+  height: 600px;
+  width: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container99 {
+  text-align: center;
+  margin-top: 20px; 
+}
+
+.container99 h5 {
+  font-size: 20px; 
+  color: #61ec04; 
+}
+
+.container99 button {
+  margin-top: 10px; 
+  padding: 10px 20px; 
+  background-color: #007bff;
+  color: #fff; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}
+
+.container99 button:hover {
+  background-color: #0056b3; 
+}
+
+
+h2 {
+  margin-top: 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input[type='text'],
+input[type='password'] {
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.body1 {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
